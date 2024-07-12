@@ -19,7 +19,7 @@ AirFlow is a project that utilizes hand gestures for controlling and interacting
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/](https://github.com/MadhumithaKolkar/AirFlow.git)
+   git clone https://github.com/uksamarth/Air_Flow.git
 
    ```
 
